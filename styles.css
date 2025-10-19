@@ -171,7 +171,7 @@ img, svg {
 
 /* NAVIGATION STYLES */
 nav{
-    /* text-align: center; */
+    text-align: center;
 }
 
 /* TO DO: Style the links in the navigation here to look more like buttons. Don't forget focus and hover styles! */
